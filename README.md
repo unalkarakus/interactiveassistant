@@ -1,20 +1,3 @@
----
-layout: post
-title:  "Using Chat-Bots to increase productivity of Operational Fleet Renting VDF Dogus and innovating their way to reach new customers"
-author: "Ibrahim Kivanc"
-author-link: "https://twitter.com/ikivanc"
-#author-image: "{{ site.baseurl }}/images/authors/photo.jpg"
-date:   2017-05-15
-categories: [Bot Framework]
-color: "blue"
-#image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
-excerpt: (VDF) Volkswagen Doğuş Finans Fleet & Car Rental web application transformed into a natural dialog with a Chat Bot using Bot Framework. Native language understanding was important for company and team used Microsoft Text Translator to translate Turkish text to English then used LUIS to understand messages. Custom Vision Services helped team to identify which car in the uploaded photo.
-language: [English]
-verticals: [“Retail, Consumer Products & Services”, Transportation & Logistics]
-geolocation: Turkey
-permalink: "https://microsoft.github.io/techcasestudies/dogusteknolojivdffleet.html"
----
-
 ## Solution overview ##
 <img src="images/dogusvdf/dogusHeader.png" alt="Dogus Teknoloji VDF Fleet Header">
 
